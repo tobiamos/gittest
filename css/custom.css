@@ -1,0 +1,121 @@
+body {
+    margin-top: 50px;
+}
+
+.navbar-brand img {
+    width: 35px;
+    height: 70px;
+    padding-bottom: 40px;
+}
+.jumbotron h1{
+    font-family: 'Bungee Hairline', cursive;
+    font-weight: 800;
+}
+.jumbotron p{
+    font-family: 'Pacifico', cursive;
+    font-size: 30px;
+    color: #fede29;
+}
+p{
+    font-family: 'Pacifico', cursive;
+}
+h2{
+     font-family: 'Bungee Hairline', cursive;
+    font-weight: 900;
+    color: #fede29;
+    
+}
+
+.jumbotron {
+    text-align: center;
+    background: url("../images/computer.jpg");
+    color: white;
+}
+
+.jumbotron button {
+    font-size: 20px;
+    color: black;
+}
+.container h2{
+}
+
+.contanier h3 {
+    font-size: 25px;
+}
+
+hr {
+    width: 100px;
+    border: 1px solid;
+}
+
+.serv {
+    border: 1px solid;
+    border-radius: 25px;
+    background: #f5f5f5;
+}
+
+.col-md-6 hr {
+    width: 200px;
+    border: 1px solid;
+    padding-top: 0px;
+}
+.col-md-4 img {
+    width: 150px;
+    height: 150px;
+    border: 2px solid white;
+}
+.container-fluid{
+    background: #333333;
+}
+.fa-circle{
+    color: #fede29;
+}
+.container .tb button{
+    color :#fede29;
+}
+.footertext{
+    color: white;
+}
+.footericon{
+    font-size: 25px;
+}
+.real{
+    font-family: 'Bungee Hairline', cursive;
+    font-weight: bolder;
+}
+
+.panel-default>.panel-heading {
+    background-color: #fede29;
+    border-color: #fede29;
+}
+
+.container-fluid h3 {
+    color: #fede29;
+}
+.fa-heart{
+    color: red;
+}
+ul .nav .navbar-nav a{
+    color: #000000;
+}
+.navbar-default .navbar-nav>li>a{
+    color: #fede29;
+}
+.btn-default{
+    background-color: #fede29;
+    border-color: black;
+}
+.h1text{
+    color: #fede29;
+}
+.well{
+    border-color: #fede29;
+}
+.fa-arrow-up{
+    color: #fede29;
+}
+#back-to-top{
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+}
